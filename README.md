@@ -1,4 +1,4 @@
-### Hello there 👋:ringed_planet:
+### Hello there 👋🏼:ringed_planet:
 
 - 🧔🏼 My name is Sivert Gullberg Hansen, I am a Junior Developer and I love working with JavaScript and C#!
 - 🔭 I’m currently working on an Open Source alternative to Discord called Gryt* *(* undisclosed for now)*
