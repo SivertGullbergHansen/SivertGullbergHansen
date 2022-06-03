@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 👋:ringed_planet:
 
-<!--
-**SivertGullbergHansen/SivertGullbergHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧔🏼 My name is Sivert Gullberg Hansen, I am a Junior Developer and I love working with JavaScript and C#!
+- 🔭 I’m currently working on an Open Source alternative to Discord called Gryt* *(* undisclosed for now)*
+- 📚 I’m currently studying for a bachelors degree in Web Development at the Norwegian University of Science and Technology located in Gjøvik
+- 🌱 I’m currently learning about websockets and long polling
+- 👯 I’m looking to collaborate on any Open Source project that utilizes JavaScript or .Net
+- 🤔 I’m looking for help with Google's WebRTC
+- 💬 [Ask me about anything!](https://GitHub.com/SivertGullbergHansen/ama)
+- 📫 How to reach me: [Connect with me on Linkedin!](https://www.linkedin.com/in/sivertgullberghansen/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Been a musician and composer since I was around 12 years old, learned to play guitar by ear and later had instructors.
+- 📹 I'm currently working on creating content for a new [Youtube Channel](https://www.youtube.com/channel/UC6xVnAqZ0QMXQqAAmMS9mAA)
 
-Here are some ideas to get you started:
+### Some cool stats about my profile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SivertGullbergHansen.visitor-badge)
+
