@@ -5,7 +5,7 @@
 ### [Hello there](https://youtu.be/rEq1Z0bjdwc?t=6)👋🏼:ringed_planet:
 
 - **🧔🏼 My name is Sivert**, I am a Junior Developer and I love working with JavaScript and C#!
-- **🔭 I’m currently working on** an Open Source alternative to Discord called Gryt* *(* undisclosed for now)*
+- **🔭 I’m currently working on** an Open Source alternative to Discord called Gryt* (* undisclosed for now)
 - **📚 I’m currently studying** for a bachelors degree in Web Development at the Norwegian University of Science and Technology located in Gjøvik
 - **🌱 I’m currently learning about** websockets and long polling
 - **👯 I’m looking to collaborate** on any Open Source project that utilizes JavaScript or .Net
