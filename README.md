@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./SivertBanner.png">
+  <a href='https://gryt.chat'><img src="./Gryt.chat.png"></a>
 </div>
 
 ### [Hello there](https://youtu.be/rEq1Z0bjdwc?t=6)👋🏼:ringed_planet:
