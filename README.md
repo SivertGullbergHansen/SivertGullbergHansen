@@ -14,6 +14,7 @@
 - **📫 How to reach me:** [Connect with me on Linkedin!](https://www.linkedin.com/in/sivertgullberghansen/)
 - **😄 Pronouns:** He/Him
 - **⚡ Fun fact:** Been a musician and composer since I was around 12 years old, learned to play guitar by ear and later had instructors.
+- **🤓 Want to read more about me?** Check out my [portfolio](https://sivert.xyz)
 
 ### Some cool badges:
 
