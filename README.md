@@ -7,12 +7,9 @@
 
 - **🧔🏼 My name is Sivert**, I am a Junior Developer and I love working with JavaScript and C#!
 - **🔭 I’m currently working on** an <a href='https://github.com/Gryt-chat'>Open Source chat platform called Gryt</a>
-- **📚 I’m currently studying** for a bachelors degree in Web Development at the Norwegian University of Science and Technology located in Gjøvik
-- **🌱 I’m currently learning about** websockets and long polling
-- **👯 I’m looking to collaborate** on any Open Source project that utilizes JavaScript/TypeScript or .Net
-- **🤔 I’m looking for help** with Google's WebRTC
+- **📚 I currently possess** a bachelors degree in Web Development from the Norwegian University of Science and Technology
+- **📚 I’m currently studying** for a masters degree in Interaction Design at the Norwegian University of Science and Technology located in Gjøvik
 - **📫 How to reach me:** [Connect with me on Linkedin!](https://www.linkedin.com/in/sivertgullberghansen/)
-- **😄 Pronouns:** He/Him
 - **⚡ Fun fact:** Been a musician and composer since I was around 12 years old, learned to play guitar by ear and later had instructors.
 - **🤓 Want to read more about me?** Check out my [portfolio](https://sivert.io)
 
