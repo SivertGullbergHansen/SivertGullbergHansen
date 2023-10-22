@@ -11,7 +11,7 @@
 - **📚 I’m currently studying** for a masters degree in Interaction Design at the Norwegian University of Science and Technology located in Gjøvik
 - **📫 How to reach me:** [Connect with me on Linkedin!](https://www.linkedin.com/in/sivertgullberghansen/)
 - **⚡ Fun fact:** Been a musician and composer since I was around 12 years old, learned to play guitar by ear and later had instructors.
-- **🤓 Want to read more about me?** Check out my [portfolio](https://sivert.io)
+- **🤓 Want to read more about me?** Check out my [blog](https://blog.sivert.io)
 
 ### Some cool badges:
 
