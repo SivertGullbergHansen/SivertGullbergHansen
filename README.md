@@ -1,5 +1,5 @@
 <div align="center">
-  <a href='https://github.com/Gryt-chat'><img src="https://raw.githubusercontent.com/Gryt-chat/gryt/main/content/github-banner-v2.png"></a>
+  <a href='https://gryt.chat'><img src="https://raw.githubusercontent.com/Gryt-chat/gryt/main/content/github-banner-v2.png"></a>
   <p>👆 Check out my passion project - Gryt</p>
 </div>
 
