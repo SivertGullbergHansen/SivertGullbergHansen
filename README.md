@@ -11,7 +11,7 @@
 - **🥇 NTNU awarded me and my bachelor-group** with the Eureka Prize for [best bachelor in the Department of Design, 2023](https://www.universitetsavisa.no/eurekaprisen-gjovik-ntnu/gjovik-disse-vant-arets-eurekapris/387933)
 - **👨‍🎓 I’m currently studying** for a masters degree in Interaction Design at NTNU
 - **📫 You can reach me** by connecting with me on [LinkedIn](https://www.linkedin.com/in/sivertgullberghansen/)
-- **⚡ Fun fact:** Been a musician and composer since I was around 12 years old, learned to play guitar by ear and later had instructors.
+- **⚡ Fun fact:** Been a musician and composer since the age of 12, learned to play the guitar by ear and later had instructors.
 - **🤓 Still not satisfied?** Check out my [blog](https://blog.sivert.io)
 
 ### Some cool badges:
